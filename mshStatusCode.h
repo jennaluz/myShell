@@ -7,6 +7,7 @@
  *
  */
 
+    /*macros*/
 #pragma once
 
     /*global variables*/
