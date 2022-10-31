@@ -9,6 +9,8 @@
 
     /*macros*/
 #pragma once
+
+    /*user-defined includes*/
 #include"mshStatusCode.h"
 
     /*function prototype*/
