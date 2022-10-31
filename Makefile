@@ -12,7 +12,7 @@
 # 	make clean
 
 CC = gcc
-CFLAGS 	= -Wall
+CFLAGS = -Wall
 
 headers := mshStatusCode.h mshGetInput.h mshTokenize.h mshForkExec.h mshFree.h
 objects := msh.o mshGetInput.o mshTokenize.o mshForkExec.o mshFree.o
