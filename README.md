@@ -1,4 +1,4 @@
-# myShell
+# MyShell
 Uses Linux fork() and execvp() to emulate a bash shell.
 
 `make` to build
